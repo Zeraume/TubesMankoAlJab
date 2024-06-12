@@ -16,6 +16,7 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
+    //contoh berhasil
     public void testSuccessfulLogin() {
         UserData user = new UserData(1234, 8766);
         try {
